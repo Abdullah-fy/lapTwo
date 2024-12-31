@@ -20,7 +20,6 @@ what is rebase
 reapply commits from one branch onto another
 
 add image
-![Alt Text](Pictures.png
-)
+![Alt Text](Pictures.png)
 
 
